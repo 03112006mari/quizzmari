@@ -14,8 +14,7 @@ const perguntas = [
             },
             {
                 texto: "Brasileira",
-                afirmacao: " A culinária brasileira é uma fusão vibrante de influências indígenas, africanas, europeias e asiáticas, destacando-se pela diversidade de ingredientes como açaí, mandioca, feijão-preto e frutos do mar. Pratos icônicos como a feijoada e técnicas variadas de preparo de frutos do mar exemplificam a rica tradição gastronômica do país, que celebra não apenas sabores, mas também a cultura e a festividade.
-. "
+                afirmacao: " A culinária brasileira é uma fusão vibrante de influências indígenas, africanas, europeias e asiáticas, destacando-se pela diversidade de ingredientes como açaí, mandioca, feijão-preto e frutos do mar. Pratos icônicos como a feijoada e técnicas variadas de preparo de frutos do mar exemplificam a rica tradição gastronômica do país, que celebra não apenas sabores, mas também a cultura e a festividade. "
             },
             {
                  texto: "Asiatica",
