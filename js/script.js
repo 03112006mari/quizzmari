@@ -54,7 +54,7 @@ mostraPergunta();
 }
 
 function mostraResultado() {
-caixaPerguntas.textContent = `Em 2049, ${nome}`;
+caixaPerguntas.textContent = `Obrigada por responder, ${nome}`;
 textoResultado.textContent = historiaFinal;
 caixaAlternativas.textContent = "";
 caixaResultado.classList.add("mostrar");
